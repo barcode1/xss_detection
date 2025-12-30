@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20e9c51c-6e6d-4e01-93e7-e777ccc4bc28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Evaluated models/reg.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k_fold.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,7 +75,9 @@
       <workItem from="1766262247790" duration="11000" />
       <workItem from="1766303607621" duration="8423000" />
       <workItem from="1766313249357" duration="3419000" />
-      <workItem from="1766317260139" duration="2851000" />
+      <workItem from="1766317260139" duration="4337000" />
+      <workItem from="1766488180721" duration="59000" />
+      <workItem from="1767094224979" duration="6040000" />
     </task>
     <servers />
   </component>
